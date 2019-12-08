@@ -1,0 +1,7 @@
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\bin\Debug\roteiro06-Repetição (While).exe.config
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\bin\Debug\roteiro06-Repetição (While).exe
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\bin\Debug\roteiro06-Repetição (While).pdb
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\obj\Debug\roteiro06-Repetição (While).csprojAssemblyReference.cache
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\obj\Debug\roteiro06-Repetição (While).csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\obj\Debug\roteiro06-Repetição (While).exe
+C:\Users\vinic\source\primeiro periodo\roteiro06-Repetição (While)\roteiro06-Repetição (While)\obj\Debug\roteiro06-Repetição (While).pdb
