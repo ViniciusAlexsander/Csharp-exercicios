@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roteiro05-Comando de Decisão", "roteiro05-Comando de Decisão\roteiro05-Comando de Decisão.csproj", "{D2AE65EB-B30F-4470-BA9A-3D794E6F81EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AE65EB-B30F-4470-BA9A-3D794E6F81EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AE65EB-B30F-4470-BA9A-3D794E6F81EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AE65EB-B30F-4470-BA9A-3D794E6F81EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AE65EB-B30F-4470-BA9A-3D794E6F81EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A703F67-A70A-486A-9A7A-293623BA6BAF}
+	EndGlobalSection
+EndGlobal
