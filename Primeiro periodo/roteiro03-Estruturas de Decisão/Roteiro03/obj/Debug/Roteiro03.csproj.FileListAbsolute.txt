@@ -1,0 +1,7 @@
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\bin\Debug\Roteiro03.exe.config
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\bin\Debug\Roteiro03.exe
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\bin\Debug\Roteiro03.pdb
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\obj\Debug\Roteiro03.csprojAssemblyReference.cache
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\obj\Debug\Roteiro03.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\obj\Debug\Roteiro03.exe
+C:\Users\vinic\source\primeiro periodo\Roteiro03\Roteiro03\obj\Debug\Roteiro03.pdb
